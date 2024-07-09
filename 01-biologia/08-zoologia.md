@@ -1,24 +1,5 @@
 # Consulta a ChatGPT sobre Zoología
 
-## Pregunta
-
-Hola, de la especilidad de zoología necesitaría un resumen de lo que es y signfica el estudio de la carrera de Zoología.
-
-1. Donde se estudia, que nivel de dificultad tiene y cuantos años tardan en obtenerse el titulo correspondiente
-
-2. Una vez que eres un zoologo, en que lugares puedes trabajar y que tipo de trabajos suelen desempezar
-
-3. Que sueldo medio suele tener un zoologo, que dificultades hay para encontrar trabajo y que reconocimiento social tiene su trabajo
-
-4. Hay que tener alguna aptitud física especial para desarrollar esta profesión
-
-5. ¿cuantos zoologos tiene la sociedad?, ¿ que proporcion es comparado coon otras ciencias? ...
-
-6. Que otras cuestiones me podrías destacar?
-
-
-## Respuesta de ChatGPT
-
 La carrera de Zoología es una rama de las ciencias biológicas que se centra en el estudio de los animales, su comportamiento, evolución, genética, ecología y fisiología. A continuación, te proporciono un resumen sobre diferentes aspectos relacionados con la carrera de Zoología:
 
 ### 1. Estudios y Duración

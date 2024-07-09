@@ -1,23 +1,5 @@
 # Consulta a ChatGPT sobre Genétiica
 
-## Pregunta
-
-Hola, de la especilidad de zoología necesitaría un resumen de lo que es y signfica el estudio de la carrera de Genetica.
-
-1. Donde se estudia, que nivel de dificultad tiene y cuantos años tardan en obtenerse el titulo correspondiente
-
-2. Una vez que eres un genetista , en que lugares puedes trabajar y que tipo de trabajos suelen desempezar
-
-3. Que sueldo medio suele tener un genetista , que dificultades hay para encontrar trabajo y que reconocimiento social tiene su trabajo
-
-4. Hay que tener alguna aptitud física especial para desarrollar esta profesión
-
-5. ¿cuantos genetistas tiene la sociedad?, ¿ que proporcion es comparado coon otras ciencias? ...
-
-6. Que otras cuestiones me podrías destacar?
-
-## Respuesta de ChatGTP
-
 Por supuesto, a continuación te proporciono un resumen sobre la carrera de Genética:
 
 1. **Estudio de la Genética:**
