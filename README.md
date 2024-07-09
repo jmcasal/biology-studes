@@ -1,6 +1,3 @@
-# biology-studes
-a simple brief of biology studies
-
 # Consulta a ChatGPT sobre Biología
 Que ramas de la biología consideras interesantes?
 
@@ -8,7 +5,7 @@ Que ramas de la biología consideras interesantes?
 
 La biología es un campo amplio y fascinante que abarca diversas ramas especializadas, cada una con su enfoque particular y contribuciones únicas al conocimiento científico. Aquí te presento algunas ramas de la biología que considero interesantes:
 
-1. **Genética:**
+1. [**Genética:**](01-genetica.md)
    - **Descripción:** Estudio de los genes, la variación genética y la herencia en los organismos. 
    - **Aplicaciones:** Investigación en biomedicina, mejora de cultivos, estudios evolutivos, diagnóstico y tratamiento de enfermedades genéticas.
 
@@ -36,7 +33,7 @@ La biología es un campo amplio y fascinante que abarca diversas ramas especiali
    - **Descripción:** Estudio de las plantas, incluyendo su fisiología, estructura, genética, ecología y distribución.
    - **Aplicaciones:** Agricultura, horticultura, conservación de especies vegetales, investigación en medicina herbal.
 
-8. **Zoología:**
+8. [**Zoología:**](./08-zoologia.md)
    - **Descripción:** Estudio de los animales, sus comportamientos, fisiología, y ecología.
    - **Aplicaciones:** Conservación de fauna, gestión de vida silvestre, investigación en biomedicina.
 
